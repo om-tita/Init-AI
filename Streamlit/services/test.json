@@ -1,0 +1,23 @@
+{
+  "output": {
+    "current_product_data": {
+      "functional_requirement": "",
+      "use_case": "",
+      "programming_language_with_version": "",
+      "framework_with_version": "",
+      "authentication_service": "",
+      "user_management": "",
+      "database_type": "",
+      "db_tool": "",
+      "testing_library": "",
+      "api_documentation": "",
+      "deployment": "",
+      "scalability": "",
+      "security": "",
+      "monitoring": "",
+      "analytics": "",
+      "error_reporting": "",
+      "new_question": "What are the specific security requirements for the product? (e.g., encryption, access control)"
+    }
+  }
+}

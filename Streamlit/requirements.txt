@@ -1,0 +1,15 @@
+streamlit
+streamlit-option-menu
+openai==1.55.3
+streamlit_lottie
+pdfplumber==0.11.4
+pandas
+langchain-openai
+langchain-core
+python-dotenv
+gitdb==4.0.11
+GitPython==3.1.43
+pdfminer.six==20231228
+pdfplumber==0.11.4
+PyPDF2==3.0.1
+pypdfium2==4.30.0
